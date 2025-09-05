@@ -26,3 +26,21 @@ This space documents my journey from learning Python fundamentals to building mi
 ---
 
 Stay tuned! Every push is a step closer to mastery ✨
+
+Till now i was completed :
+
+1. Basics of python
+-> Variables and Data Types
+-> Operators
+-> Input and Output
+-> Loops (for, while)
+-> Conditional statements (if-else)
+-> Basic Functions
+
+2. Data Structures in Python
+-> Lists
+-> Tuples
+-> Set
+-> Dictionary
+-> List Comprehension and some mini projects related to these topics
+
