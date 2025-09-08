@@ -35,3 +35,4 @@ car1.describe()
 
 
 # I hope u will understand some basics about oops along with me......
+# In the next file we will see more about class variables and instance variables
