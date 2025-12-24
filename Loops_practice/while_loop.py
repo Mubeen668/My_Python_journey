@@ -1,5 +1,5 @@
 ''' 
-Loops : loops are used to execute a block of repeatedly until that specific conditions is true 
+Loops : loops are used to execute a block of code repeatedly until that specific conditions is true 
         or for a specific no.of iterations
         Loops are 2 types 1. For loop and 2. While loop
 '''
